@@ -8,3 +8,9 @@
 > `composer update` from the root of the nmap-bulk-ip-port-scanner directory to load dependencies.
 
 **[Try it out >>](https://github.com/niranjan94/supercharged-scripts/tree/master/nmap-bulk-ip-port-scanner)**
+
+**2. email-id-extractor (HTML/javascript)**: a small javascript code with a Bootstrap 3 UI to extract all email ID's from a string. Useful for data extraction.
+
+> Just extract/download the project and open index.html to use
+
+**[Try it out >>](https://github.com/niranjan94/supercharged-scripts/tree/master/email-id-extractor)**
