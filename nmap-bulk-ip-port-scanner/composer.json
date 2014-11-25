@@ -1,0 +1,12 @@
+{
+    "name": "Niranjan/cam_detect",
+    "authors": [
+        {
+            "name": "Niranjan Rajendran",
+            "email": "niranjan94@yahoo.com"
+        }
+    ],
+    "require": {
+        "willdurand/nmap": "@stable"
+    }
+}
