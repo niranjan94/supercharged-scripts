@@ -27,7 +27,7 @@
 
 **[Try it out >>](https://github.com/niranjan94/supercharged-scripts/tree/master/aerospace-toolkits/stress-calculator)**
 
-**4. cygwin-mirrors-speed-tester (Python)**: a python script that pings all the Cygwin Mirrors from the Official Mirrors list and shows you the Top 5 mirrors to download from. Useful when you want to select the best mirror for downloading packages for Cygwin.
+**4. cygwin-mirrors-speed-tester (Python)**: a python script that pings all the Cygwin Mirrors from the Official Mirrors list and shows you the Top 5 mirrors to download from. Thanks to *Dmitry Sidorenko* for the script. Useful when you want to select the best mirror for downloading packages for Cygwin.
 
 > Just extract/download the project and run `python speed.py` from the directory
 
