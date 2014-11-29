@@ -26,3 +26,9 @@
 > Just extract/download the project and open StressCalc.m in MATLAB (after switching into that directory)
 
 **[Try it out >>](https://github.com/niranjan94/supercharged-scripts/tree/master/aerospace-toolkits/stress-calculator)**
+
+**4. cygwin-mirrors-speed-tester (Python)**: a python script that pings all the Cygwin Mirrors from the Official Mirrors list and shows you the Top 5 mirrors to download from. Useful when you want to select the best mirror for downloading packages for Cygwin.
+
+> Just extract/download the project and run `python speed.py` from the directory
+
+**[Try it out >>](https://github.com/niranjan94/supercharged-scripts/tree/master/cygwin-mirrors-speed-tester)**
