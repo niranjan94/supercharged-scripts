@@ -1,4 +1,4 @@
-> Some Scripts that made my life easier. Hope it's useful for you too.
+> Some Scripts that made my life easier.
 
 ## Usage ##
 
